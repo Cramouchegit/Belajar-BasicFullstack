@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@eli/*": ["src/*"],
+      "@eli-style/*": ["styles/*"]
+    }
+  }
+}
